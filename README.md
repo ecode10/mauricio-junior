@@ -1,9 +1,10 @@
-# Hello there 👋
-
 # About Me
 - 😃 I'm software developer and I was leader in many companies that I worked. I have been working as a software architecture, building web site, web api, windows desktop and general computer software, use the newest in the world of technology.
+
 - 🧑‍💻 Web application developer and solution architect in a wide variety of applications companies. I have interesting in web, desktop, services, mobile development and database as SQL Server, Oracle, MongoDB, MySQL, Sybase, SQLite and other.
-- 💻 Skills: - Front-end: WPF, AngularJS, Bootstrap, CSS, TableLess, HTML5, ASP.NET and ASP.NET MVC; - Back-end: .NET Core, ASP.NET MVC, Web API Restful, Web Service WSDL; - Mobile: iOS (Swift, Objective-C), Xamarin, MVVM; - Cloud: Microsoft Azure, AWS Amazon; - Task Managers: Asana, Visual Studio Team Systems, GitLab and Trello; - Source Control: Git Lab, Git Hub, Git Bucket, VSTS, Visual Source Safe; - Watch: watchOS (Swift); - TV: tvOS (Swift); - Unix: macOS (Swift).
+
+- 💻 Skills: - Front-end: WPF, AngularJS, Bootstrap, CSS, TableLess, HTML5, ASP.NET and ASP.NET MVC; - Back-end: .NET Core, ASP.NET MVC, Web API Restful, Web Service WSDL; - Mobile: iOS (Swift, Objective-C), Xamarin, MVVM; - Cloud: Microsoft Azure, AWS Amazon; - Task Managers: Asana, Visual Studio Team Systems, GitLab and Trello; - Source Control: Git Lab, Git Hub, Git Bucket, VSTS, Visual Source Safe, Watch: watchOS (Swift), TV: tvOS (Swift), Unix: macOS (Swift).
+
 - 😱 Languages: C#, Swift, Objective-C, Java, JavaScript, AngujarJs, HTML5
 
 # Tech Stack
